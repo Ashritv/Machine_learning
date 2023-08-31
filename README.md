@@ -1,2 +1,2 @@
 # Machine_learning
-All prgrams and algorithms
+This repository contains programs and algorithms of ml 
